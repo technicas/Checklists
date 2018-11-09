@@ -28,4 +28,7 @@ class AddItemViewController: UITableViewController {
         super.viewWillAppear(animated)
         textField.becomeFirstResponder()
     }
+    func test() {
+        
+    }
 }
